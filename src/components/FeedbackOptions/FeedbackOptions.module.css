@@ -1,0 +1,14 @@
+.feedback_buttons {
+  margin: 10px;
+}
+.feedback_button {
+  font-family: 'Prompt', sans-serif;
+  margin: 15px;
+  cursor: pointer;
+
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: aquamarine;
+  border: none;
+}
